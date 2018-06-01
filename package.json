@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-passport",
+  "name": "loopback-component-passport-plus",
   "description": "LoopBack passport integration to support third party logins and account linking",
   "engines": {
     "node": ">=4"
